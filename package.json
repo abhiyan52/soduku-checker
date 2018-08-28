@@ -1,0 +1,24 @@
+{
+  "name": "soduku-checker",
+  "version": "1.0.0",
+  "description": "This checks the soduku puzzle for validity",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhiyan52/soduku-checker.git"
+  },
+  "keywords": [
+    "soduku",
+    "puzzle",
+    "checker"
+  ],
+  "author": "abhiyantimilsina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhiyan52/soduku-checker/issues"
+  },
+  "homepage": "https://github.com/abhiyan52/soduku-checker#readme"
+}
